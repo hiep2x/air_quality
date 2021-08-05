@@ -16,3 +16,7 @@ Having trouble with App?
 
 👀 Email: hiep3x@gmail.com
 🌱 Facebook page: https://facebook.com/hiep2x
+
+### Credit
+
+The Air information in the app are fetched from the website: https://aqicn.org/
